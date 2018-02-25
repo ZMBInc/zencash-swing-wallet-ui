@@ -1,8 +1,8 @@
-## [ZENCash](https://zensystem.io/) Desktop GUI Wallet troubleshooting guide
+## [ZENCash](https://zensystem.io/) Desktop GUI Wallet troubleshooting guide ZenCash Windows桌面图形界面版钱包故障排查向导
 
 ![Screenshot1](ZENChat_small.png "Chat Window") ![Screenshot1](ZENCashWalletMac_0.74.7_small.png "Wallet Window") 
 
-This document outlines possible solutions to several common problems that user might encounter while using the wallet.
+This document outlines possible solutions to several common problems that user might encounter while using the wallet.本文描述用户使用钱包时遇到的几个普通的问题的几个可能的解决办法。
 
 ### How to diagnose wallet problems
 
